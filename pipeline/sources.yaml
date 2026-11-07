@@ -1,0 +1,13 @@
+# 信源清单。第 5 步再启用，现在先随手记：看到好信源就加一行。
+# tier: 1 = 一手（官方博客 / 论文 / 发布说明），2 = 高质量解读，3 = 转述与资讯
+
+rss: []
+  # - name: Anthropic News
+  #   url: https://www.anthropic.com/rss.xml
+  #   tier: 1
+
+podcasts: []
+
+blogs: []
+
+wechat: []

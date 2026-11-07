@@ -1,0 +1,7 @@
+.DS_Store
+.env
+__pycache__/
+.venv/
+*.pyc
+# 截图原图不进 git，放 data/screenshots/ 本地
+data/screenshots/
