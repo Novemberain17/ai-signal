@@ -8,9 +8,9 @@
 
 | 阶段 | 产出 | 状态 |
 |---|---|---|
-| 0. 观察与问题定义 | `docs/00-observation.md` | 进行中 |
-| 1. 评论挖掘（100–150 条） | `data/comments_raw.csv` → `docs/01-comment-mining.md` | 未开始 |
-| 2. 用户访谈（8–12 人） | `docs/02-interviews.md` | 未开始 |
+| 0. 观察与问题定义 | `docs/00-observation.md` | 初版完成，待用访谈修订 |
+| 1. 评论挖掘（100–150 条） | `data/comments_raw.csv` → `docs/01-comment-mining.md` | 完成，n=157 |
+| 2. 用户访谈（8–12 人） | `docs/02-interviews.md` | 进行中 |
 | 3. 竞品定位 | `docs/03-competitors.md` | 未开始 |
 | 4. 方案与取舍 | `docs/04-solution.md` | 未开始 |
 | 5. 半自动流水线 + 上线 4–6 期 | `pipeline/`、`issues/` | 未开始 |
